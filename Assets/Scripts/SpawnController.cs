@@ -20,7 +20,7 @@ public class SpawnController : MonoBehaviour
 
     public void StartNewSpawn(float speed, float time, float distance)
     {
-        StopCoroutine(Spawn());
+        StopAllCoroutines();
         _speed = speed;
         _time = time;
         _distance = distance;

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c6cf323-672b-4652-b2ac-14f73e061a25" name="Default Changelist" comment="" />
+    <list default="true" id="9c6cf323-672b-4652-b2ac-14f73e061a25" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SorokinTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SorokinTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,14 +19,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpawnController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+            <state relative-caret-position="510">
+              <caret line="33" column="75" lean-forward="true" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
               <folding>
-                <marker date="1647673918936" expanded="false" signature="6:97" ph="..." />
-                <marker date="1647673918936" expanded="true" signature="143:911" ph="{...}" />
-                <marker date="1647673918936" expanded="true" signature="382:419" ph="{...}" />
-                <marker date="1647673918936" expanded="true" signature="491:644" ph="{...}" />
-                <marker date="1647673918936" expanded="true" signature="677:909" ph="{...}" />
+                <marker date="1647675057521" expanded="false" signature="6:97" ph="..." />
+                <marker date="1647675057521" expanded="true" signature="143:896" ph="{...}" />
+                <marker date="1647675057521" expanded="true" signature="349:386" ph="{...}" />
+                <marker date="1647675057521" expanded="true" signature="458:608" ph="{...}" />
+                <marker date="1647675057521" expanded="true" signature="641:894" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -42,6 +48,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpawnController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -60,6 +69,7 @@
     <option name="width" value="1583" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -134,12 +144,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647672469735</updated>
-      <workItem from="1647672474103" duration="1568000" />
+      <workItem from="1647672474103" duration="2402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1568000" />
+    <option name="totallyTimeSpent" value="2402000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -151,7 +161,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="245" y="76" width="1583" height="1056" extended-state="0" />
+    <frame x="245" y="76" width="1583" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -214,14 +224,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SpawnController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="34" column="77" selection-start-line="34" selection-start-column="77" selection-end-line="34" selection-end-column="77" />
+        <state relative-caret-position="510">
+          <caret line="33" column="75" lean-forward="true" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
           <folding>
-            <marker date="1647673918936" expanded="false" signature="6:97" ph="..." />
-            <marker date="1647673918936" expanded="true" signature="143:911" ph="{...}" />
-            <marker date="1647673918936" expanded="true" signature="382:419" ph="{...}" />
-            <marker date="1647673918936" expanded="true" signature="491:644" ph="{...}" />
-            <marker date="1647673918936" expanded="true" signature="677:909" ph="{...}" />
+            <marker date="1647675057521" expanded="false" signature="6:97" ph="..." />
+            <marker date="1647675057521" expanded="true" signature="143:896" ph="{...}" />
+            <marker date="1647675057521" expanded="true" signature="349:386" ph="{...}" />
+            <marker date="1647675057521" expanded="true" signature="458:608" ph="{...}" />
+            <marker date="1647675057521" expanded="true" signature="641:894" ph="{...}" />
           </folding>
         </state>
       </provider>
